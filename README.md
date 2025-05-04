@@ -27,7 +27,7 @@ Kullanıcılar `Kime`, `CC`, `BCC`, `Konu` ve `Mesaj` alanlarını doldurarak `m
 
 Aşağıdaki adımları izleyerek projeyi kendi bilgisayarınızda çalıştırabilirsiniz:
 
-- git clone [https://github.com/ahmettbalki/react-odev.git]
+- git clone https://github.com/ahmettbalki/odev.git
 - cd react-odev
 - npm install
 - npm run dev
