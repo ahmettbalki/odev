@@ -1,0 +1,111 @@
+.email-form {
+    width: 600px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    position: relative;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  label {
+    width: 80px;
+    font-weight: bold;
+  }
+  
+  .dropdown {
+    position: absolute;
+    top: 35px;
+    left: 90px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: 300px;
+    padding: 10px;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown input {
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+    margin-bottom: 8px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .dropdown-item {
+    padding: 6px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .textarea-wrapper {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+  }
+  .icon-wrapper {
+    display: flex;
+    gap: 5px;
+    margin-left: 10px;
+  }
+  .selected-email {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .dropdown-icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .dropdown-icon {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .send-email-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .send-email-button:hover {
+    background-color: #45a049;
+  }
+  
+  .send-button-wrapper button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+  }
+  
