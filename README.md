@@ -16,10 +16,10 @@ Kullanıcılar `Kime`, `CC`, `BCC`, `Konu` ve `Mesaj` alanlarını doldurarak `m
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- [React]
-- [React Hook Form]
-- [React Icons]
-- [Tailwind CSS]
+- React
+- React Hook Form
+- React Icons
+- Tailwind CSS
 
 ---
 
